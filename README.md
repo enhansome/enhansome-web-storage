@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,447 | 🐛 99 | 📅 2026-06-30
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,813 | 🐛 100 | 📅 2026-06-30
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,11 +146,11 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,603 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,601 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,763 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
   * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09
-  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 813 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
+  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 811 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
 * Browser Extensions
   * [EditThisCookie](http://www.editthiscookie.com/)(For Chrome) - Open source Chrome extension which does it all!
   * [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)(For Chrome) - A powerful and easy-to-use Cookie Editor.
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
