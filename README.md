@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,611 | 🐛 100 | 📅 2026-06-30
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,022 | 🐛 102 | 📅 2026-06-30
 
 > Everything you need to know about Client-side Storage.
 
@@ -243,11 +243,11 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Storing data in the browser with the HTML5 localStorage API](https://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/)
   * [Basket.js: A JavaScript loader with localStorage-based script caching](http://badassjs.com/post/40850339601/basketjs-a-javascript-loader-with)
 * Libraries
-  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,799 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
+  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,800 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
   * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,039 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
   * [vue-local-storage](https://github.com/pinguinjkeke/vue-local-storage) ⭐ 669 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03 - Vue.js localStorage plugin with types support.
   * [localForage](https://github.com/localForage/localForage) ⭐ 25,799 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-  * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,349 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
+  * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,350 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
   * [secure-ls](https://github.com/softvar/secure-ls) ⭐ 673 | 🐛 20 | 🌐 JavaScript | 📅 2024-09-12 - Secure localStorage data with high level of encryption and data compression.
 * Browser Extensions
   * [HTML5 Storage Manager All in One](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en) - Complete Storage Manager Extension Ever!
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
