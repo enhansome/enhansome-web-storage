@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,450 | 🐛 102 | 📅 2026-08-18
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,670 | 🐛 102 | 📅 2026-08-18
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,7 +146,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,595 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,594 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,763 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
   * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09
@@ -403,7 +403,7 @@ If you do expect to receive messages from other sites, **always verify the sende
   * [The pitfalls of postMessage](https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/)
   * [XSS and App Security through HTML5's PostMessage()](https://community.saas.hpe.com/t5/Protect-Your-Assets/XSS-and-App-Security-through-HTML5-s-PostMessage/ba-p/266645#.WfRDnBNL_GI)
 * Libraries
-  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,917 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
+  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,918 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
   * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,671 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
 * Browser Extensions
   * [postMessage debugger](https://chrome.google.com/webstore/detail/postmessage-debugger/kjfjellokbmlooidpiaolkpmghbladpi?hl=en) - This extension prints messages sent with postMessage to the console.
