@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,851 | 🐛 103 | 📅 2026-08-18
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,295 | 🐛 105 | 📅 2026-08-18
 
 > Everything you need to know about Client-side Storage.
 
@@ -248,7 +248,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [vue-local-storage](https://github.com/pinguinjkeke/vue-local-storage) ⭐ 669 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03 - Vue.js localStorage plugin with types support.
   * [localForage](https://github.com/localForage/localForage) ⭐ 25,803 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
   * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,350 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
-  * [secure-ls](https://github.com/softvar/secure-ls) ⭐ 673 | 🐛 20 | 🌐 JavaScript | 📅 2024-09-12 - Secure localStorage data with high level of encryption and data compression.
+  * [secure-ls](https://github.com/softvar/secure-ls) ⭐ 672 | 🐛 20 | 🌐 JavaScript | 📅 2024-09-12 - Secure localStorage data with high level of encryption and data compression.
 * Browser Extensions
   * [HTML5 Storage Manager All in One](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en) - Complete Storage Manager Extension Ever!
 
@@ -403,7 +403,7 @@ If you do expect to receive messages from other sites, **always verify the sende
   * [The pitfalls of postMessage](https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/)
   * [XSS and App Security through HTML5's PostMessage()](https://community.saas.hpe.com/t5/Protect-Your-Assets/XSS-and-App-Security-through-HTML5-s-PostMessage/ba-p/266645#.WfRDnBNL_GI)
 * Libraries
-  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,918 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
+  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,919 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
   * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,671 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
 * Browser Extensions
   * [postMessage debugger](https://chrome.google.com/webstore/detail/postmessage-debugger/kjfjellokbmlooidpiaolkpmghbladpi?hl=en) - This extension prints messages sent with postMessage to the console.
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
