@@ -1,7 +1,381 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Everything you need to know about Client-side Storage.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Libraries",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "js-cookie",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 32531480,
+                            "language": "JavaScript",
+                            "last_commit": "2026-08-10T21:32:39Z",
+                            "owner": "js-cookie",
+                            "repo": "js-cookie",
+                            "stars": 22590
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Cookies",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 3771441,
+                            "language": "JavaScript",
+                            "last_commit": "2020-05-16T21:49:46Z",
+                            "owner": "ScottHamper",
+                            "repo": "Cookies",
+                            "stars": 1763
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "Vuejs Cookies",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 64474382,
+                            "language": "JavaScript",
+                            "last_commit": "2020-09-24T03:39:51Z",
+                            "owner": "alfhen",
+                            "repo": "vue-cookie",
+                            "stars": 811
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "AngularJS Cookies",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 12692016,
+                            "language": "JavaScript",
+                            "last_commit": "2018-01-15T19:42:30Z",
+                            "owner": "ivpusic",
+                            "repo": "angular-cookie",
+                            "stars": 265
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "ReactJs Cookies",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 32215253,
+                            "language": "TypeScript",
+                            "last_commit": "2026-05-09T19:08:00Z",
+                            "owner": "ItsBenCodes",
+                            "repo": "cookies",
+                            "stars": 215
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Resources - more on cookies"
+                }
+              ],
+              "description": "An (web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser. The browser may store it and send it back with the next request to the same server. Typically, it's used to tell if two requests came from the same browser — keeping a user logged-in, for example. It remembers stateful information for the stateless HTTP protocol.",
+              "node_type": "group",
+              "title": "Cookies"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Libraries",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "localForage",
+                          "description": "Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 14003349,
+                            "language": "JavaScript",
+                            "last_commit": "2024-07-30T20:27:14Z",
+                            "owner": "localForage",
+                            "repo": "localForage",
+                            "stars": 25807
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "basket.js",
+                          "description": "A script and resource loader for caching & loading files with localStorage.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 3586487,
+                            "language": "JavaScript",
+                            "last_commit": "2025-03-02T06:16:58Z",
+                            "owner": "addyosmani",
+                            "repo": "basket.js",
+                            "stars": 3350
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "react-native-localstorage",
+                          "description": "Local storage wrapper for both react-native and browser.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 39774073,
+                            "language": "JavaScript",
+                            "last_commit": "2026-07-19T09:13:42Z",
+                            "owner": "sunnylqm",
+                            "repo": "react-native-storage",
+                            "stars": 3038
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "angular-local-storage",
+                          "description": "An AngularJS module that gives access to the browsers local storage with cookie fallback.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 5567476,
+                            "language": "JavaScript",
+                            "last_commit": "2017-08-29T14:16:59Z",
+                            "owner": "grevory",
+                            "repo": "angular-local-storage",
+                            "stars": 2800
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "secure-ls",
+                          "description": "Secure localStorage data with high level of encryption and data compression.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 63014330,
+                            "language": "JavaScript",
+                            "last_commit": "2024-09-12T02:06:39Z",
+                            "owner": "softvar",
+                            "repo": "secure-ls",
+                            "stars": 672
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "vue-local-storage",
+                          "description": "Vue.js localStorage plugin with types support.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 67285897,
+                            "language": "JavaScript",
+                            "last_commit": "2023-01-03T20:39:42Z",
+                            "owner": "pinguinjkeke",
+                            "repo": "vue-local-storage",
+                            "stars": 669
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Resources - more on localStorage"
+                }
+              ],
+              "description": "The read-only property allows you to access a object for the 's origin; the stored data is saved across browser sessions. is similar to , except that while data stored in has no expiration time, data stored in gets cleared when the page session ends — that is, when the page is closed.",
+              "node_type": "group",
+              "title": "localStorage"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Libraries",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "ngStorage",
+                          "description": "localStorage and sessionStorage done right for AngularJS.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 11212142,
+                            "language": "JavaScript",
+                            "last_commit": "2018-09-17T17:31:07Z",
+                            "owner": "gsklee",
+                            "repo": "ngStorage",
+                            "stars": 2315
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "sessionstorage",
+                          "description": "sessionStorage API which gracefully degrades to window.name & cookies when not available.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 28157887,
+                            "language": "JavaScript",
+                            "last_commit": "2022-01-06T16:13:39Z",
+                            "owner": "unshiftio",
+                            "repo": "sessionstorage",
+                            "stars": 23
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "react-webstorage",
+                          "description": "Use webStorage or a webStorage polyfill as a React store",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 28443382,
+                            "language": "JavaScript",
+                            "last_commit": "2014-12-24T23:14:55Z",
+                            "owner": "sterpe",
+                            "repo": "react-webstorage",
+                            "stars": 3
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Resources - more on sessionStorage"
+                }
+              ],
+              "description": "The property allows you to access a session object for the current origin. sessionStorage is similar to , the only difference is while data stored in localStorage has no expiration set, data stored in sessionStorage gets cleared when the page session ends. A page session lasts for as long as the browser is open and survives over page reloads and restores. Opening a page in a new tab or window will cause a new session to be initiated, which differs from how session cookies work.",
+              "node_type": "group",
+              "title": "sessionStorage"
+            }
+          ],
+          "description": "Following are various storage techniques which HTML5 storage provides. Each technique has its own pros and cons.",
+          "node_type": "group",
+          "title": "Different Storage APIs"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Libraries",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "postmate",
+                          "description": "A powerful, simple, promise-based postMessage library.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 64686622,
+                            "language": "JavaScript",
+                            "last_commit": "2023-06-02T12:27:05Z",
+                            "owner": "dollarshaveclub",
+                            "repo": "postmate",
+                            "stars": 1919
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "across-tabs",
+                          "description": "Easy communication between cross-origin browser tabs.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 81540012,
+                            "language": "JavaScript",
+                            "last_commit": "2023-09-11T09:52:22Z",
+                            "owner": "wingify",
+                            "repo": "across-tabs",
+                            "stars": 1671
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Resources - more on postMessage:"
+                }
+              ],
+              "description": "postMessage\nOne very interesting API, PostMessage is not a web-storage technique but it's the most efficient and reliable way of communicating between browser windows/tabs. Along with web-storage APIs, it overcomes the web-storage restrictions of cross-origin.",
+              "node_type": "group",
+              "title": "Worth mentioning API for tackling cross-origin restriction"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Comparison Table"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "How to store data that works Cross-Origin too?",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "across-tabs",
+                  "description": "Easy communication between cross-origin browser tabs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81540012,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-11T09:52:22Z",
+                    "owner": "wingify",
+                    "repo": "across-tabs",
+                    "stars": 1671
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FAQs"
+        }
+      ],
+      "title": "awesome-web-storage"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:36:24.660Z",
+    "last_updated": "2026-08-24T14:25:55.654Z",
     "original_repository": "softvar/awesome-web-storage",
     "original_repository_id": 108154882,
     "original_repository_sha": "df3fec70fc6a18ab2a565403c270d083a46f1eca",

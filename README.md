@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,327 | 🐛 106 | 📅 2026-08-21
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,11 +146,11 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,592 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,590 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,763 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
+  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 811 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
   * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09
-  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 811 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
 * Browser Extensions
   * [EditThisCookie](http://www.editthiscookie.com/)(For Chrome) - Open source Chrome extension which does it all!
   * [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)(For Chrome) - A powerful and easy-to-use Cookie Editor.
@@ -243,12 +243,12 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Storing data in the browser with the HTML5 localStorage API](https://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/)
   * [Basket.js: A JavaScript loader with localStorage-based script caching](http://badassjs.com/post/40850339601/basketjs-a-javascript-loader-with)
 * Libraries
-  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,800 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
-  * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,038 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
-  * [vue-local-storage](https://github.com/pinguinjkeke/vue-local-storage) ⭐ 669 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03 - Vue.js localStorage plugin with types support.
   * [localForage](https://github.com/localForage/localForage) ⭐ 25,807 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
   * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,350 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
+  * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,038 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
+  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,800 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
   * [secure-ls](https://github.com/softvar/secure-ls) ⭐ 672 | 🐛 20 | 🌐 JavaScript | 📅 2024-09-12 - Secure localStorage data with high level of encryption and data compression.
+  * [vue-local-storage](https://github.com/pinguinjkeke/vue-local-storage) ⭐ 669 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03 - Vue.js localStorage plugin with types support.
 * Browser Extensions
   * [HTML5 Storage Manager All in One](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en) - Complete Storage Manager Extension Ever!
 
@@ -332,8 +332,8 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Web Storage API: Local Storage & Session Storage](https://www.codebyamir.com/blog/web-storage-api-localstorage-sessionstorage)
   * [Sharing sessionStorage between tabs for secure multi-tab authentication](https://blog.guya.net/2015/06/12/sharing-sessionstorage-between-tabs-for-secure-multi-tab-authentication/)
 * Libraries
-  * [sessionstorage](https://github.com/unshiftio/sessionstorage) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-06 - sessionStorage API which gracefully degrades to window\.name & cookies when not available.
   * [ngStorage](https://github.com/gsklee/ngStorage) ⭐ 2,315 | 🐛 75 | 🌐 JavaScript | 📅 2018-09-17 - localStorage and sessionStorage done right for AngularJS.
+  * [sessionstorage](https://github.com/unshiftio/sessionstorage) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-06 - sessionStorage API which gracefully degrades to window\.name & cookies when not available.
   * [react-webstorage](https://github.com/sterpe/react-webstorage) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2014-12-24 - Use webStorage or a webStorage polyfill as a React store
 * Browser Extensions
   * [HTML5 Storage Manager All in One](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en) - Complete Storage Manager Extension Ever!
