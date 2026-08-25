@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,644 | 🐛 106 | 📅 2026-08-21
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,7 +146,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,591 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,590 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,763 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 811 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
@@ -243,7 +243,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Storing data in the browser with the HTML5 localStorage API](https://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/)
   * [Basket.js: A JavaScript loader with localStorage-based script caching](http://badassjs.com/post/40850339601/basketjs-a-javascript-loader-with)
 * Libraries
-  * [localForage](https://github.com/localForage/localForage) ⭐ 25,807 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+  * [localForage](https://github.com/localForage/localForage) ⭐ 25,808 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
   * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,350 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
   * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,038 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
   * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,800 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.

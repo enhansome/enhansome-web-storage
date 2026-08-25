@@ -26,7 +26,7 @@
                             "last_commit": "2026-08-10T21:32:39Z",
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22591
+                            "stars": 22590
                           }
                         },
                         {
@@ -122,7 +122,7 @@
                             "last_commit": "2024-07-30T20:27:14Z",
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25807
+                            "stars": 25808
                           }
                         },
                         {
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:22:26.935Z",
+    "last_updated": "2026-08-25T06:20:55.027Z",
     "original_repository": "softvar/awesome-web-storage",
     "original_repository_id": 108154882,
     "original_repository_sha": "df3fec70fc6a18ab2a565403c270d083a46f1eca",
