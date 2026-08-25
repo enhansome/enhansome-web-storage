@@ -26,7 +26,7 @@
                             "last_commit": "2026-08-10T21:32:39Z",
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22590
+                            "stars": 22591
                           }
                         },
                         {
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:55.654Z",
+    "last_updated": "2026-08-25T02:22:26.935Z",
     "original_repository": "softvar/awesome-web-storage",
     "original_repository_id": 108154882,
     "original_repository_sha": "df3fec70fc6a18ab2a565403c270d083a46f1eca",
