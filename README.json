@@ -27,7 +27,8 @@
                             "owner": "js-cookie",
                             "repo": "js-cookie",
                             "stars": 22591
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -42,7 +43,8 @@
                             "owner": "ScottHamper",
                             "repo": "Cookies",
                             "stars": 1762
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -56,8 +58,9 @@
                             "last_commit": "2020-09-24T03:39:51Z",
                             "owner": "alfhen",
                             "repo": "vue-cookie",
-                            "stars": 811
-                          }
+                            "stars": 810
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -72,7 +75,8 @@
                             "owner": "ivpusic",
                             "repo": "angular-cookie",
                             "stars": 265
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -87,7 +91,8 @@
                             "owner": "ItsBenCodes",
                             "repo": "cookies",
                             "stars": 215
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         }
                       ]
                     }
@@ -123,7 +128,8 @@
                             "owner": "localForage",
                             "repo": "localForage",
                             "stars": 25809
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -138,7 +144,8 @@
                             "owner": "addyosmani",
                             "repo": "basket.js",
                             "stars": 3350
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -153,7 +160,8 @@
                             "owner": "sunnylqm",
                             "repo": "react-native-storage",
                             "stars": 3038
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -168,7 +176,8 @@
                             "owner": "grevory",
                             "repo": "angular-local-storage",
                             "stars": 2800
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -183,7 +192,8 @@
                             "owner": "softvar",
                             "repo": "secure-ls",
                             "stars": 673
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -198,7 +208,8 @@
                             "owner": "pinguinjkeke",
                             "repo": "vue-local-storage",
                             "stars": 669
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         }
                       ]
                     }
@@ -234,7 +245,8 @@
                             "owner": "gsklee",
                             "repo": "ngStorage",
                             "stars": 2315
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -249,7 +261,8 @@
                             "owner": "unshiftio",
                             "repo": "sessionstorage",
                             "stars": 23
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -264,7 +277,8 @@
                             "owner": "sterpe",
                             "repo": "react-webstorage",
                             "stars": 3
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         }
                       ]
                     }
@@ -307,7 +321,8 @@
                             "owner": "dollarshaveclub",
                             "repo": "postmate",
                             "stars": 1919
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         },
                         {
                           "node_type": "item",
@@ -322,7 +337,8 @@
                             "owner": "wingify",
                             "repo": "across-tabs",
                             "stars": 1671
-                          }
+                          },
+                          "first_seen": "2026-08-28T12:44:21.421Z"
                         }
                       ]
                     }
@@ -361,7 +377,8 @@
                     "owner": "wingify",
                     "repo": "across-tabs",
                     "stars": 1671
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:44:21.421Z"
                 }
               ]
             }
@@ -375,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:39.368Z",
+    "last_updated": "2026-08-28T12:44:21.421Z",
     "original_repository_info": {
       "archived": false,
       "id": 108154882,

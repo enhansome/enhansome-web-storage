@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,715 | 🐛 105 | 📅 2026-08-21
 
 > Everything you need to know about Client-side Storage.
 
@@ -148,7 +148,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
 * Libraries
   * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,591 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,762 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
-  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 811 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
+  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 810 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
   * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09
 * Browser Extensions
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
