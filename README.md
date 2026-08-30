@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,934 | 🐛 105 | 📅 2026-08-21
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,231 | 🐛 105 | 📅 2026-08-21
 
 > Everything you need to know about Client-side Storage.
 
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
