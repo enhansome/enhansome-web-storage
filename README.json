@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2800,
+                            "stars": 2799,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:36:51.808Z",
+    "last_updated": "2026-08-31T07:00:47.612Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
