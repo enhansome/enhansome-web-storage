@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,782 | 🐛 106 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,081 | 🐛 106 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,7 +146,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,588 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,587 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-10
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,762 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 810 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
@@ -332,7 +332,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Web Storage API: Local Storage & Session Storage](https://www.codebyamir.com/blog/web-storage-api-localstorage-sessionstorage)
   * [Sharing sessionStorage between tabs for secure multi-tab authentication](https://blog.guya.net/2015/06/12/sharing-sessionstorage-between-tabs-for-secure-multi-tab-authentication/)
 * Libraries
-  * [ngStorage](https://github.com/gsklee/ngStorage) ⭐ 2,315 | 🐛 75 | 🌐 JavaScript | 📅 2018-09-17 - localStorage and sessionStorage done right for AngularJS.
+  * [ngStorage](https://github.com/gsklee/ngStorage) ⭐ 2,314 | 🐛 75 | 🌐 JavaScript | 📅 2018-09-17 - localStorage and sessionStorage done right for AngularJS.
   * [sessionstorage](https://github.com/unshiftio/sessionstorage) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-06 - sessionStorage API which gracefully degrades to window\.name & cookies when not available.
   * [react-webstorage](https://github.com/sterpe/react-webstorage) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2014-12-24 - Use webStorage or a webStorage polyfill as a React store
 * Browser Extensions
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
