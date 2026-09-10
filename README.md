@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,334 | 🐛 106 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,604 | 🐛 106 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,7 +146,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,588 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-07
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,587 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-07
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,762 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 810 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
@@ -243,7 +243,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Storing data in the browser with the HTML5 localStorage API](https://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/)
   * [Basket.js: A JavaScript loader with localStorage-based script caching](http://badassjs.com/post/40850339601/basketjs-a-javascript-loader-with)
 * Libraries
-  * [localForage](https://github.com/localForage/localForage) ⭐ 25,812 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+  * [localForage](https://github.com/localForage/localForage) ⭐ 25,811 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
   * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,351 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
   * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,038 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
   * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,796 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
@@ -403,8 +403,8 @@ If you do expect to receive messages from other sites, **always verify the sende
   * [The pitfalls of postMessage](https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/)
   * [XSS and App Security through HTML5's PostMessage()](https://community.saas.hpe.com/t5/Protect-Your-Assets/XSS-and-App-Security-through-HTML5-s-PostMessage/ba-p/266645#.WfRDnBNL_GI)
 * Libraries
-  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,919 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
-  * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,672 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
+  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,918 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
+  * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,671 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
 * Browser Extensions
   * [postMessage debugger](https://chrome.google.com/webstore/detail/postmessage-debugger/kjfjellokbmlooidpiaolkpmghbladpi?hl=en) - This extension prints messages sent with postMessage to the console.
 
@@ -416,7 +416,7 @@ If you do expect to receive messages from other sites, **always verify the sende
 
    Using postMessage to communicate between multiple tabs and at the same time using localStorage/sessionStorage in all the newly opened tabs/windows to persist data being passed. Data will be persisted as long as the tabs/windows remain open in case of sessionStorage and in the case of localStorage unless the data is deleted by the system or manually flushing it using dev tools. So, even if the opener tab/window gets closed, the opened tabs/windows will have the entire data even after getting refreshed.
 
-   * [across-tabs](https://github.com/wingify/across-tabs/) ⭐ 1,672 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs
+   * [across-tabs](https://github.com/wingify/across-tabs/) ⭐ 1,671 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs
 
 ### Contributing Guidelines
 
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
