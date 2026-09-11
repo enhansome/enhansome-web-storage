@@ -350,7 +350,7 @@
                             "open_issues": 75,
                             "owner": "gsklee",
                             "repo": "ngStorage",
-                            "stars": 2314,
+                            "stars": 2313,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:56:16.955Z",
+    "last_updated": "2026-09-11T05:55:41.592Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
