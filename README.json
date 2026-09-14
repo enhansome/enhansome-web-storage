@@ -209,7 +209,7 @@
                             "open_issues": 25,
                             "owner": "sunnylqm",
                             "repo": "react-native-storage",
-                            "stars": 3037,
+                            "stars": 3036,
                             "topics": [
                               "asyncstorage",
                               "localstorage",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:05:33.094Z",
+    "last_updated": "2026-09-14T06:13:18.720Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
