@@ -26,7 +26,7 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-09-07T21:32:34Z",
+                            "last_commit": "2026-09-16T21:32:32Z",
                             "open_issues": 11,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:58:22.405Z",
+    "last_updated": "2026-09-17T06:07:03.121Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
