@@ -54,7 +54,7 @@
                             "open_issues": 13,
                             "owner": "ScottHamper",
                             "repo": "Cookies",
-                            "stars": 1762,
+                            "stars": 1761,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -159,7 +159,7 @@
                             "open_issues": 250,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25814,
+                            "stars": 25813,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -209,7 +209,7 @@
                             "open_issues": 25,
                             "owner": "sunnylqm",
                             "repo": "react-native-storage",
-                            "stars": 3035,
+                            "stars": 3036,
                             "topics": [
                               "asyncstorage",
                               "localstorage",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:16:57.153Z",
+    "last_updated": "2026-09-22T06:09:49.975Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
