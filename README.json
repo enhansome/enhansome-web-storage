@@ -17,7 +17,7 @@
                         {
                           "node_type": "item",
                           "title": "js-cookie",
-                          "description": null,
+                          "description": "js-cookie/js-cookie",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -30,7 +30,7 @@
                             "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22576,
+                            "stars": 22575,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -41,7 +41,7 @@
                         {
                           "node_type": "item",
                           "title": "Cookies",
-                          "description": null,
+                          "description": "ScottHamper/Cookies",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -62,7 +62,7 @@
                         {
                           "node_type": "item",
                           "title": "Vuejs Cookies",
-                          "description": null,
+                          "description": "alfhen/vue-cookie",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -83,7 +83,7 @@
                         {
                           "node_type": "item",
                           "title": "AngularJS Cookies",
-                          "description": null,
+                          "description": "ivpusic/angular-cookie",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -104,7 +104,7 @@
                         {
                           "node_type": "item",
                           "title": "ReactJs Cookies",
-                          "description": null,
+                          "description": "ItsBenCodes/cookies",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:58:37.599Z",
+    "last_updated": "2026-10-03T05:13:57.487Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
