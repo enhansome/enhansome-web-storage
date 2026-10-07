@@ -30,7 +30,7 @@
                             "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22575,
+                            "stars": 22576,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -263,7 +263,7 @@
                             "open_issues": 20,
                             "owner": "softvar",
                             "repo": "secure-ls",
-                            "stars": 673,
+                            "stars": 672,
                             "topics": [
                               "aes-encryption",
                               "compressed-data",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:07.241Z",
+    "last_updated": "2026-10-07T07:11:28.115Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
