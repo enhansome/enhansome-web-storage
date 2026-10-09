@@ -30,7 +30,7 @@
                             "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22574,
+                            "stars": 22572,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -159,7 +159,7 @@
                             "open_issues": 250,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25808,
+                            "stars": 25805,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2796,
+                            "stars": 2797,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -350,7 +350,7 @@
                             "open_issues": 75,
                             "owner": "gsklee",
                             "repo": "ngStorage",
-                            "stars": 2311,
+                            "stars": 2310,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:19:03.250Z",
+    "last_updated": "2026-10-09T07:20:32.010Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
@@ -586,7 +586,7 @@
       "open_issues": 4,
       "owner": "softvar",
       "repo": "awesome-web-storage",
-      "stars": 448,
+      "stars": 449,
       "topics": [
         "awesome",
         "awesome-list",
