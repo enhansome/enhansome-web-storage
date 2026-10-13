@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,821 | 🐛 105 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,306 | 🐛 105 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -150,7 +150,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,762 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
   * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 810 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
-  * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09
+  * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-09
 * Browser Extensions
   * [EditThisCookie](http://www.editthiscookie.com/)(For Chrome) - Open source Chrome extension which does it all!
   * [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)(For Chrome) - A powerful and easy-to-use Cookie Editor.
@@ -243,10 +243,10 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Storing data in the browser with the HTML5 localStorage API](https://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/)
   * [Basket.js: A JavaScript loader with localStorage-based script caching](http://badassjs.com/post/40850339601/basketjs-a-javascript-loader-with)
 * Libraries
-  * [localForage](https://github.com/localForage/localForage) ⭐ 25,802 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+  * [localForage](https://github.com/localForage/localForage) ⭐ 25,800 | 🐛 251 | 🌐 JavaScript | 📅 2024-07-30 - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
   * [basket.js](https://github.com/addyosmani/basket.js) ⭐ 3,347 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-02 - A script and resource loader for caching & loading files with localStorage.
   * [react-native-localstorage](https://github.com/sunnylqm/react-native-storage) ⭐ 3,032 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-19 - Local storage wrapper for both react-native and browser.
-  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,797 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
+  * [angular-local-storage](https://github.com/grevory/angular-local-storage) ⭐ 2,796 | 🐛 64 | 🌐 JavaScript | 📅 2017-08-29 - An AngularJS module that gives access to the browsers local storage with cookie fallback.
   * [secure-ls](https://github.com/softvar/secure-ls) ⭐ 672 | 🐛 20 | 🌐 JavaScript | 📅 2024-09-12 - Secure localStorage data with high level of encryption and data compression.
   * [vue-local-storage](https://github.com/pinguinjkeke/vue-local-storage) ⭐ 669 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-03 - Vue.js localStorage plugin with types support.
 * Browser Extensions
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
