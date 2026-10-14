@@ -26,11 +26,11 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-09-17T06:15:03Z",
-                            "open_issues": 10,
+                            "last_commit": "2026-10-14T05:32:31Z",
+                            "open_issues": 11,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22570,
+                            "stars": 22569,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25800,
+                            "stars": 25801,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -188,7 +188,7 @@
                             "open_issues": 1,
                             "owner": "addyosmani",
                             "repo": "basket.js",
-                            "stars": 3347,
+                            "stars": 3346,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -441,7 +441,7 @@
                             "open_issues": 55,
                             "owner": "dollarshaveclub",
                             "repo": "postmate",
-                            "stars": 1918,
+                            "stars": 1919,
                             "topics": [
                               "communicate",
                               "handshake",
@@ -470,7 +470,7 @@
                             "open_issues": 20,
                             "owner": "wingify",
                             "repo": "across-tabs",
-                            "stars": 1673,
+                            "stars": 1675,
                             "topics": [
                               "babel",
                               "browser-tabs",
@@ -536,7 +536,7 @@
                     "open_issues": 20,
                     "owner": "wingify",
                     "repo": "across-tabs",
-                    "stars": 1673,
+                    "stars": 1675,
                     "topics": [
                       "babel",
                       "browser-tabs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T07:40:18.457Z",
+    "last_updated": "2026-10-14T06:06:18.379Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
