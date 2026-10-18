@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,098 | 🐛 105 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,602 | 🐛 105 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -332,7 +332,7 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Web Storage API: Local Storage & Session Storage](https://www.codebyamir.com/blog/web-storage-api-localstorage-sessionstorage)
   * [Sharing sessionStorage between tabs for secure multi-tab authentication](https://blog.guya.net/2015/06/12/sharing-sessionstorage-between-tabs-for-secure-multi-tab-authentication/)
 * Libraries
-  * [ngStorage](https://github.com/gsklee/ngStorage) ⭐ 2,310 | 🐛 75 | 🌐 JavaScript | 📅 2018-09-17 - localStorage and sessionStorage done right for AngularJS.
+  * [ngStorage](https://github.com/gsklee/ngStorage) ⭐ 2,309 | 🐛 75 | 🌐 JavaScript | 📅 2018-09-17 - localStorage and sessionStorage done right for AngularJS.
   * [sessionstorage](https://github.com/unshiftio/sessionstorage) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-06 - sessionStorage API which gracefully degrades to window\.name & cookies when not available.
   * [react-webstorage](https://github.com/sterpe/react-webstorage) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2014-12-24 - Use webStorage or a webStorage polyfill as a React store
 * Browser Extensions
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
