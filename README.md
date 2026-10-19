@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,602 | 🐛 105 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,075 | 🐛 105 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -146,11 +146,11 @@ Following are various storage techniques which HTML5 storage provides. Each tech
   * [Securing cookies](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet#Cookies)
   * [HTTP Cookies explained](https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/)
 * Libraries
-  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,566 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-14
+  * [js-cookie](https://github.com/js-cookie/js-cookie) ⭐ 22,567 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-14
   * [Cookies](https://github.com/ScottHamper/Cookies) ⭐ 1,762 | 🐛 13 | 🌐 JavaScript | 📅 2020-05-16
-  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 810 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
+  * [Vuejs Cookies](https://github.com/alfhen/vue-cookie) ⭐ 809 | 🐛 29 | 🌐 JavaScript | 📅 2020-09-24
   * [AngularJS Cookies](https://github.com/ivpusic/angular-cookie) ⭐ 265 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-15
-  * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-09
+  * [ReactJs Cookies](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-09
 * Browser Extensions
   * [EditThisCookie](http://www.editthiscookie.com/)(For Chrome) - Open source Chrome extension which does it all!
   * [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)(For Chrome) - A powerful and easy-to-use Cookie Editor.
@@ -404,7 +404,7 @@ If you do expect to receive messages from other sites, **always verify the sende
   * [XSS and App Security through HTML5's PostMessage()](https://community.saas.hpe.com/t5/Protect-Your-Assets/XSS-and-App-Security-through-HTML5-s-PostMessage/ba-p/266645#.WfRDnBNL_GI)
 * Libraries
   * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,919 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
-  * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,675 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
+  * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,674 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
 * Browser Extensions
   * [postMessage debugger](https://chrome.google.com/webstore/detail/postmessage-debugger/kjfjellokbmlooidpiaolkpmghbladpi?hl=en) - This extension prints messages sent with postMessage to the console.
 
@@ -416,7 +416,7 @@ If you do expect to receive messages from other sites, **always verify the sende
 
    Using postMessage to communicate between multiple tabs and at the same time using localStorage/sessionStorage in all the newly opened tabs/windows to persist data being passed. Data will be persisted as long as the tabs/windows remain open in case of sessionStorage and in the case of localStorage unless the data is deleted by the system or manually flushing it using dev tools. So, even if the opener tab/window gets closed, the opened tabs/windows will have the entire data even after getting refreshed.
 
-   * [across-tabs](https://github.com/wingify/across-tabs/) ⭐ 1,675 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs
+   * [across-tabs](https://github.com/wingify/across-tabs/) ⭐ 1,674 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs
 
 ### Contributing Guidelines
 
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
