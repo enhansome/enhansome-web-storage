@@ -26,11 +26,11 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-20T21:32:52Z",
-                            "open_issues": 8,
+                            "last_commit": "2026-10-22T21:33:09Z",
+                            "open_issues": 9,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22570,
+                            "stars": 22569,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25804,
+                            "stars": 25803,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -188,7 +188,7 @@
                             "open_issues": 1,
                             "owner": "addyosmani",
                             "repo": "basket.js",
-                            "stars": 3346,
+                            "stars": 3345,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -350,7 +350,7 @@
                             "open_issues": 75,
                             "owner": "gsklee",
                             "repo": "ngStorage",
-                            "stars": 2309,
+                            "stars": 2308,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:05:31.277Z",
+    "last_updated": "2026-10-23T06:00:25.834Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
