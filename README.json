@@ -26,11 +26,11 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-22T21:33:09Z",
-                            "open_issues": 9,
+                            "last_commit": "2026-10-23T21:33:01Z",
+                            "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22569,
+                            "stars": 22570,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25803,
+                            "stars": 25804,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -209,7 +209,7 @@
                             "open_issues": 25,
                             "owner": "sunnylqm",
                             "repo": "react-native-storage",
-                            "stars": 3031,
+                            "stars": 3032,
                             "topics": [
                               "asyncstorage",
                               "localstorage",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:00:25.834Z",
+    "last_updated": "2026-10-24T05:46:49.942Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
