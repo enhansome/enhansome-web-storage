@@ -30,7 +30,7 @@
                             "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22571,
+                            "stars": 22570,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -470,7 +470,7 @@
                             "open_issues": 20,
                             "owner": "wingify",
                             "repo": "across-tabs",
-                            "stars": 1674,
+                            "stars": 1673,
                             "topics": [
                               "babel",
                               "browser-tabs",
@@ -536,7 +536,7 @@
                     "open_issues": 20,
                     "owner": "wingify",
                     "repo": "across-tabs",
-                    "stars": 1674,
+                    "stars": 1673,
                     "topics": [
                       "babel",
                       "browser-tabs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:06:50.254Z",
+    "last_updated": "2026-10-27T06:13:49.872Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
