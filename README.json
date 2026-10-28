@@ -30,7 +30,7 @@
                             "open_issues": 10,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22570,
+                            "stars": 22571,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:13:49.872Z",
+    "last_updated": "2026-10-28T06:49:44.779Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
