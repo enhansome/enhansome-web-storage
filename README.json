@@ -441,7 +441,7 @@
                             "open_issues": 55,
                             "owner": "dollarshaveclub",
                             "repo": "postmate",
-                            "stars": 1919,
+                            "stars": 1920,
                             "topics": [
                               "communicate",
                               "handshake",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:56:46.368Z",
+    "last_updated": "2026-11-01T07:28:32.370Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",

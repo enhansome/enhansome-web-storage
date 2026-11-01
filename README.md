@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,634 | 🐛 105 | 📅 2026-09-02
+## awesome-web-storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,155 | 🐛 105 | 📅 2026-09-02
 
 > Everything you need to know about Client-side Storage.
 
@@ -403,7 +403,7 @@ If you do expect to receive messages from other sites, **always verify the sende
   * [The pitfalls of postMessage](https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/)
   * [XSS and App Security through HTML5's PostMessage()](https://community.saas.hpe.com/t5/Protect-Your-Assets/XSS-and-App-Security-through-HTML5-s-PostMessage/ba-p/266645#.WfRDnBNL_GI)
 * Libraries
-  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,919 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
+  * [postmate](https://github.com/dollarshaveclub/postmate) ⭐ 1,920 | 🐛 55 | 🌐 JavaScript | 📅 2023-06-02 - A powerful, simple, promise-based postMessage library.
   * [across-tabs](https://github.com/wingify/across-tabs) ⭐ 1,673 | 🐛 20 | 🌐 JavaScript | 📅 2023-09-11 - Easy communication between cross-origin browser tabs.
 * Browser Extensions
   * [postMessage debugger](https://chrome.google.com/webstore/detail/postmessage-debugger/kjfjellokbmlooidpiaolkpmghbladpi?hl=en) - This extension prints messages sent with postMessage to the console.
@@ -442,4 +442,4 @@ To the extent possible under law, [Varun Malhotra](http://varunmalhotra.xyz) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
