@@ -26,8 +26,8 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-30T21:32:39Z",
-                            "open_issues": 12,
+                            "last_commit": "2026-11-02T21:32:28Z",
+                            "open_issues": 13,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
                             "stars": 22571,
@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25805,
+                            "stars": 25804,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -350,7 +350,7 @@
                             "open_issues": 75,
                             "owner": "gsklee",
                             "repo": "ngStorage",
-                            "stars": 2308,
+                            "stars": 2307,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T07:37:46.142Z",
+    "last_updated": "2026-11-03T07:52:29.016Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
