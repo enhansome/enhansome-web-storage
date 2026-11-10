@@ -26,11 +26,11 @@
                             "id": 32531480,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-11-02T21:32:28Z",
-                            "open_issues": 13,
+                            "last_commit": "2026-11-09T21:32:30Z",
+                            "open_issues": 15,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22567,
+                            "stars": 22565,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -188,7 +188,7 @@
                             "open_issues": 1,
                             "owner": "addyosmani",
                             "repo": "basket.js",
-                            "stars": 3344,
+                            "stars": 3343,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:54:31.830Z",
+    "last_updated": "2026-11-10T08:22:33.842Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
