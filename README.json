@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25803,
+                            "stars": 25802,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2796,
+                            "stars": 2795,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:43:01.592Z",
+    "last_updated": "2026-11-12T08:14:44.285Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
