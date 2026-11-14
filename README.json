@@ -30,7 +30,7 @@
                             "open_issues": 15,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22564,
+                            "stars": 22562,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2795,
+                            "stars": 2794,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -350,7 +350,7 @@
                             "open_issues": 75,
                             "owner": "gsklee",
                             "repo": "ngStorage",
-                            "stars": 2307,
+                            "stars": 2306,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:52:52.811Z",
+    "last_updated": "2026-11-14T07:34:29.594Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
