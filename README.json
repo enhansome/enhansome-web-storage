@@ -30,7 +30,7 @@
                             "open_issues": 15,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22562,
+                            "stars": 22561,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25801,
+                            "stars": 25802,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -263,7 +263,7 @@
                             "open_issues": 20,
                             "owner": "softvar",
                             "repo": "secure-ls",
-                            "stars": 672,
+                            "stars": 673,
                             "topics": [
                               "aes-encryption",
                               "compressed-data",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:34:29.594Z",
+    "last_updated": "2026-11-15T07:48:11.212Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
