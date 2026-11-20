@@ -30,7 +30,7 @@
                             "open_issues": 16,
                             "owner": "js-cookie",
                             "repo": "js-cookie",
-                            "stars": 22561,
+                            "stars": 22560,
                             "topics": [
                               "cookie",
                               "javascript"
@@ -54,7 +54,7 @@
                             "open_issues": 13,
                             "owner": "ScottHamper",
                             "repo": "Cookies",
-                            "stars": 1762,
+                            "stars": 1761,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -188,7 +188,7 @@
                             "open_issues": 1,
                             "owner": "addyosmani",
                             "repo": "basket.js",
-                            "stars": 3345,
+                            "stars": 3344,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T12:44:21.421Z"
@@ -209,7 +209,7 @@
                             "open_issues": 25,
                             "owner": "sunnylqm",
                             "repo": "react-native-storage",
-                            "stars": 3032,
+                            "stars": 3031,
                             "topics": [
                               "asyncstorage",
                               "localstorage",
@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2794,
+                            "stars": 2792,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -263,7 +263,7 @@
                             "open_issues": 20,
                             "owner": "softvar",
                             "repo": "secure-ls",
-                            "stars": 674,
+                            "stars": 673,
                             "topics": [
                               "aes-encryption",
                               "compressed-data",
@@ -302,7 +302,7 @@
                             "open_issues": 30,
                             "owner": "pinguinjkeke",
                             "repo": "vue-local-storage",
-                            "stars": 666,
+                            "stars": 667,
                             "topics": [
                               "localstorage",
                               "ssr",
@@ -470,7 +470,7 @@
                             "open_issues": 20,
                             "owner": "wingify",
                             "repo": "across-tabs",
-                            "stars": 1673,
+                            "stars": 1672,
                             "topics": [
                               "babel",
                               "browser-tabs",
@@ -536,7 +536,7 @@
                     "open_issues": 20,
                     "owner": "wingify",
                     "repo": "across-tabs",
-                    "stars": 1673,
+                    "stars": 1672,
                     "topics": [
                       "babel",
                       "browser-tabs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:43:24.309Z",
+    "last_updated": "2026-11-20T08:28:41.789Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
