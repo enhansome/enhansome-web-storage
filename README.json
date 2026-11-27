@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25797,
+                            "stars": 25798,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -236,7 +236,7 @@
                             "open_issues": 64,
                             "owner": "grevory",
                             "repo": "angular-local-storage",
-                            "stars": 2792,
+                            "stars": 2791,
                             "topics": [
                               "angular",
                               "angularjs",
@@ -470,7 +470,7 @@
                             "open_issues": 20,
                             "owner": "wingify",
                             "repo": "across-tabs",
-                            "stars": 1671,
+                            "stars": 1670,
                             "topics": [
                               "babel",
                               "browser-tabs",
@@ -536,7 +536,7 @@
                     "open_issues": 20,
                     "owner": "wingify",
                     "repo": "across-tabs",
-                    "stars": 1671,
+                    "stars": 1670,
                     "topics": [
                       "babel",
                       "browser-tabs",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:27:45.908Z",
+    "last_updated": "2026-11-27T09:38:16.996Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
