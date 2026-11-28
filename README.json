@@ -159,7 +159,7 @@
                             "open_issues": 251,
                             "owner": "localForage",
                             "repo": "localForage",
-                            "stars": 25798,
+                            "stars": 25799,
                             "topics": [
                               "indexeddb",
                               "javascript",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:38:16.996Z",
+    "last_updated": "2026-11-28T08:53:23.117Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Everything you need to know about Client-side Storage.",
